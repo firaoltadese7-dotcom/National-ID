@@ -1,0 +1,9 @@
+Flask==2.3.3
+PyMuPDF==1.23.8
+Pillow==9.5.0
+pytesseract==0.3.10
+ethiopian-date-converter==0.2.1
+qrcode==7.4.2
+pytz==2024.1
+Werkzeug==2.3.7
+gunicorn==20.1.0
